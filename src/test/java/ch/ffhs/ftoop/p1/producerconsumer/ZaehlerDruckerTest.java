@@ -1,5 +1,6 @@
 package ch.ffhs.ftoop.p1.producerconsumer;
 
+import ch.ffhs.ftoop.p1.producerconsumer.ZaehlerDrucker;
 import student.TestCase;
 
 public class ZaehlerDruckerTest extends TestCase {
